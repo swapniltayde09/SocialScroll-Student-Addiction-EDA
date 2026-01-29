@@ -10,16 +10,10 @@
 5. **Sleep theft**: High addiction = 2hrs less sleep
 
 ## 🛠️ Tech Stack
-**Pandas - Seaborn - Matplotlib - Feature Engineering - Threshold Analysis**
-
+Pandas • Seaborn • Matplotlib • Feature Engineering
 
 ## 📈 Live Demo
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[yourusername]/SocialScroll-Student-Social-Media-Addiction/blob/main/SocialScroll_EDA_ML_Analysis.ipynb)
 
-## 📁 Dataset
+## 📁 Dataset Source
 [Kaggle: Students' Social Media Addiction](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships)
-
-✅ Repo public + stars possible
-✅ Colab badge works (clickable)
-✅ Notebook renders in GitHub 
-✅ CSV downloadable
